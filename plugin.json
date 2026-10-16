@@ -3,6 +3,5 @@
   "name": "shed",
   "description": "Matt Ward's personal agent skills.",
   "version": "0.1.0",
-  "author": { "name": "Matt Ward" },
-  "license": "MIT"
+  "author": { "name": "Matt Ward" }
 }
