@@ -1,4 +1,4 @@
-# shed
+# swag
 
 My personal agent skills, packaged as an [Agent Plugin](https://agent-plugins.org) for Cursor, Claude Code and anything else that reads `SKILL.md`.
 
@@ -8,10 +8,10 @@ My personal agent skills, packaged as an [Agent Plugin](https://agent-plugins.or
 
 ## Install
 
-**Cursor (as a plugin):** clone into `~/.cursor/plugins/local/shed`, then run **Developer: Reload Window**.
+**Cursor (as a plugin):** clone into `~/.cursor/plugins/local/swag`, then run **Developer: Reload Window**.
 
 ```sh
-git clone https://github.com/mjward/shed ~/.cursor/plugins/local/shed
+git clone https://github.com/mjward/swag ~/.cursor/plugins/local/swag
 ```
 
 **Just the skills:** copy a folder from `skills/` into `~/.cursor/skills/` or `~/.claude/skills/`.
